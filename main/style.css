@@ -2,7 +2,6 @@
     position: relative;
     width: 1600px;
     height: 2391px;
-    border: 2px solid red;
     background: #FFFFFF;
     margin: auto;
 }
@@ -271,7 +270,6 @@ color: #FE9013;
     height: 862px;
     left: calc(50% - 976px/2);
     top: 844px;
-    border: 1px solid red;
 
 }
 .donate1 h2{
