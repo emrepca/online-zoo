@@ -358,9 +358,9 @@ color: #FE9013;
 .footer{
     position: absolute;
     height: 443px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
+    width: 1600px;
+    left: -312px;
+    top: 1104px;
 
     background: #111115;
 }
@@ -459,7 +459,7 @@ color: #FFFFFF;
     position: absolute;
 width: 237px;
 height: 29px;
-right: 350px;
+left: 1015px;
 top: 40px;
 
 /* subtitle */
