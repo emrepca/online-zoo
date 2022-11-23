@@ -316,8 +316,8 @@ color: #FE9013;
     position: absolute;
     width: 41px;
     height: 58px;
-    left: 366px;
-    top: 312px;
+    left: 290px;
+    top: 295px;
 
     font-family: 'Roboto';
     font-style: normal;
@@ -340,8 +340,93 @@ color: #FE9013;
 
     background: #333B41;
 }
+#amount{
+    position: absolute;
+width: 57px;
+height: 22px;
+left: 4px;
+top: 540px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
 
 
+color: #000000;
+}
+.x_icon img{
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 390px;
+top: 390px;
+
+}
+.vector-panda1{
+    position: absolute;
+    width: 268.49px;
+    height: 198.47px;
+    left: 470px;
+    top: 310px;
+}
+.vector-panda2{
+    position: absolute;
+width: 41.48px;
+height: 44px;
+left: 568px;
+top: 464px;
+
+}
+.vector-panda3{
+    position: absolute;
+width: 36.96px;
+height: 67.35px;
+left: 703px;
+top: 440px;
+}
+.vector-panda4{
+    position: absolute;
+width: 24.13px;
+height: 28.74px;
+left: 490px;
+top: 350px;
+}
+.diet{
+    position: absolute;
+width: 159px;
+height: 22px;
+left: 230px;
+top: 420px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+
+color: #333B41;
+}
+.progress-bar{
+    position: absolute;
+width: 976px;
+height: 27px;
+left: 0px;
+top: 600px;
+
+background: #404950;
+border-radius: 2px;
+}
 
 
 
@@ -591,13 +676,20 @@ border-radius: 50%;
 
 background: rgba(196, 196, 196, 0.5);
 }
-.instagram img{
+/* .instagram1{
     position: absolute;
-width: 13.12px;
-height: 13.12px;
-left: 6.44px;
-top: 6.44px;
+    width: 13.12px;
+    height: 13.12px;
+    left: 200px;
+    top: 644px;
 }
+.instagram2{
+    position: absolute;
+    width: 5.33px;
+    height: 5.33px;
+    left: 10.33px;
+    top: 10.33px;
+} */
 .instagram a{
     position: absolute;
 width: 73px;
@@ -627,11 +719,12 @@ border-radius: 50%;
 background: rgba(196, 196, 196, 0.5);
 }
 .youtube img{
-position: absolute;
-width: 18px;
-height: 12.99px;
-left: 4px;
-top: 6px;
+    position: absolute;
+    width: 18px;
+    height: 12.99px;
+    left: 4px;
+    top: 6px;
+
 }
 .youtube a{
     position: absolute;
