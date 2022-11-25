@@ -427,12 +427,162 @@ top: 600px;
 background: #404950;
 border-radius: 2px;
 }
+.another-amount{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 268px;
+    height: 54px;
+    left: 333px;
+    top: 670px;
+    border: 1px solid #929699;
+    border-radius: 2px;
+}
+/* .another-amount p{
+    position: absolute;
+left: 3.36%;
+right: 53.36%;
+top: 0%;
+bottom: 29.63%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
 
 
+color: #929699;
+}
+.another-amount img{
+    position: absolute;
+width: 10px;
+height: 20px;
+left: 248px;
+top: 17px;
+} */
+
+.another-amount textarea{
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background-color: rgba(255, 255, 255, 0.52) ;
+border: 1px solid #929699;
+border-radius: 2px;
+padding-left: 10px;
+padding-top: 15px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
 
 
+color: #929699;
+}
+
+.another-amount img{
+    position: absolute;
+width: 10px;
+height: 20px;
+left: 248px;
+top: 17px;
+
+}
+.radio-button{
+    padding-top: 60px;
+    padding-left: 10px;
+    word-spacing: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    /* or 22px */
+    color: #333B41;
+}
+.feed{
+    position: absolute;
+    width: 268px;
+    height: 50px;
+    top: 100px;
+
+/* orange */
+
+background: linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+border-radius: 25px;
+}
+.feed:active{
+    background: #09791b;
+}
+.feed p{
+    position: absolute;
+width: 292px;
+height: 22px;
+left: -15px;
+top: -3px;
+
+/* btn. */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.p2{
+    position: absolute;
+width: 301px;
+height: 22px;
+left: -13px;
+top: 170.02px;
+
+/* body */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+/* or 22px */
 
 
+color: #333B41;
+}
+.price ul{
+    display: block;
+    list-style: none;
+    padding-top: 612px;
+    padding-left: 25px;
+}
+.price ul li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+    padding: 15px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 140%;
+/* or 36px */
+
+text-transform: uppercase;
+
+color: #333B41;
+}
 
 
 
